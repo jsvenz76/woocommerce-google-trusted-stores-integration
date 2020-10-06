@@ -24,6 +24,6 @@
 		"load-grunt-tasks": "~3.1.0",
 		"time-grunt": "~1.1.0",
 		"underscore": "~1.8.3",
-		"underscore.string": "~3.0.3"
+		"underscore.string": "~3.3.5"
 	}
 }
